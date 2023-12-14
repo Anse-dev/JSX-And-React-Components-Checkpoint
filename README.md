@@ -1,4 +1,4 @@
-![image](https://github.com/Anse-dev/JSX-And-React-Components-Checkpoint/assets/67246148/8ac25a3c-01db-460b-a6ca-3d24e03a2835)
+
 
 
 
